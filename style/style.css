@@ -173,6 +173,12 @@ margin-right: 8rem;
     padding-left: 5%;
 }
 
+.img-2:hover{
+
+    opacity: 0.5;
+
+}
+
 .ipsum-box{
 display:flex;
 justify-content: space-evenly;
